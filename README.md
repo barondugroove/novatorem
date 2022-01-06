@@ -2,7 +2,7 @@
   <tr>
   <td width="50%">
 
-&nbsp; <br> [![Spotify](https://novatorem-8cvw994ji-barondugroove.vercel.app/api/spotify?background_color=0d1117&border_color=fffffff)](https://open.spotify.com/user/barondugroove)
+&nbsp; <br> [![Spotify](http://novatorem-barondugroove.vercel.app/api/spotify?background_color=0d1117&border_color=fffffff)](https://open.spotify.com/user/barondugroove)
 
   </td>
   <td width="50%">
