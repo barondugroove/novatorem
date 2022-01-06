@@ -3,5 +3,6 @@
     "templates": {
         "light": "spotify.html.j2",
         "dark": "spotify-dark.html.j2"
+        "test": "test.html.j2"
     }
 }
