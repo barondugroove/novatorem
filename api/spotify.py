@@ -147,7 +147,7 @@ def makeSVG(data, background_color, border_color):
 @app.route('/with_parameters')
 def catch_all(path):
     background_color = request.args.get('background_color') or "181414"
-    border_color = request.args.get('border_color') or "181414"
+    border_color = request.args.get('border_color') or "000000"
 
     data = nowPlaying()
     svg = makeSVG(data, background_color, border_color)
